@@ -1,4 +1,4 @@
-# flutter_application_1
+# MyCalculator
 
 A new Flutter project.
 
